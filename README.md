@@ -7,7 +7,7 @@ I have not played in a while because I a am spending the majority of my time lea
 
 <h3> Valorant: </h3>
    <ul>
-<li> <a href="https://tracker.gg/valorant/profile/riot/duuly%23JINKI/overview" target="_blank">Main</a> </li>
-<li> <a href="https://tracker.gg/valorant/profile/riot/DUULY%20%E3%83%84%23JINKI/overview" target="_blank">Smurf</a> </li>
-<li> <a href="https://tracker.gg/valorant/profile/riot/west%20korean%23nuke/overview" target="_blank">Smurf</a> </li>
+<li> <a href="https://tracker.gg/valorant/profile/riot/duuly%23JINKI/overview" target="_blank">duuly</a> </li>
+<li> <a href="https://tracker.gg/valorant/profile/riot/DUULY%20%E3%83%84%23JINKI/overview" target="_blank">DUULY%20%E3%83%84</a> </li>
+<li> <a href="https://tracker.gg/valorant/profile/riot/west%20korean%23nuke/overview" target="_blank">west korean</a> </li>
    </ul>
