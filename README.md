@@ -7,5 +7,7 @@ I have not played in a while because I a am spending the majority of my time lea
 
 <h2> Valorant: </h2>
 <a href="https://tracker.gg/valorant/profile/riot/duuly%23JINKI/overview" target="_blank">Main</a>
+
 <a href="https://tracker.gg/valorant/profile/riot/DUULY%20%E3%83%84%23JINKI/overview" target="_blank">Smurf</a>
+
 <a href="https://tracker.gg/valorant/profile/riot/west%20korean%23nuke/overview" target="_blank">Smurf</a>
