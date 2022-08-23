@@ -5,7 +5,7 @@ I have not played in a while because I a am spending the majority of my time lea
 <h3> League of Legends: </h3>
    <ul>
 <li> <a href="https://www.op.gg/summoners/na/duuly" target="_blank">duuly</a> </li>
-<li> <a href="https://www.op.gg/summoners/na/cute+toxic+boy" target="_blank">cute toxic boy</a> </li>
+<li> <a href="https://www.op.gg/summoners/na/cute+toxic+boy" target="_blank">Cute toxic Boy</a> </li>
 <li> <a href="https://na.op.gg/summoners/na/pma%20till%2015" target="_blank">PMA Till 15</a> </li>
 <li> <a href="https://www.op.gg/summoners/na/duuly" target="_blank">TONKATRUCK69</a> </li>
    </ul>
