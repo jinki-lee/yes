@@ -17,3 +17,7 @@ I have not played in a while because I a am spending the majority of my time lea
 <li> <a href="https://tracker.gg/valorant/profile/riot/west%20korean%23nuke/overview" target="_blank">west korean</a> </li>
    </ul>
 <img src="Asset2/valorantRank.png"> 
+
+<p>
+<a href="https://jinki-lee.github.io/blog/" target="_blank">Click me to return back to blog page.</a>
+</p>
